@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 114973852414686920}
   - component: {fileID: 114999847245811208}
   - component: {fileID: 6082034917998997483}
+  - component: {fileID: 3277381292522283457}
   m_Layer: 0
   m_Name: AR Feathered Plane
   m_TagString: Untagged
@@ -153,3 +154,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_FeatheringWidth: 0.2
+--- !u!114 &3277381292522283457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585201990951412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edcf630ef01ebf542bdbbd75cf4552c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NewTextures:
+  - {fileID: 2800000, guid: 2abe966838ed69645bf30bcd2c9ca502, type: 3}
+  - {fileID: 2800000, guid: 0efa406ce4a70e740ba974562d860a50, type: 3}
+  - {fileID: 2800000, guid: 7493ee6a3e0c30f4ba14ee9fbba03bbd, type: 3}
+  - {fileID: 2800000, guid: 8677d06c3c633264789a83ba83779700, type: 3}
+  - {fileID: 2800000, guid: 04d29140c200d1b4cb929b1dba30c880, type: 3}
+  - {fileID: 2800000, guid: 41e2a94aa2da5ce4d9f9314645e5a61f, type: 3}
+  - {fileID: 2800000, guid: fde7d412fa71fb149a23646045be6ee7, type: 3}
+  - {fileID: 2800000, guid: c775f90875d8a39489f8d4cd546cae55, type: 3}
+  - {fileID: 2800000, guid: 3189fda6dd0c86c4ebb2f201a5b9cbb0, type: 3}
+  - {fileID: 2800000, guid: 52f67516de69898459dc7a684a09ba5f, type: 3}
+  - {fileID: 2800000, guid: edf608428c5abe34c9e6b3d537020c17, type: 3}
